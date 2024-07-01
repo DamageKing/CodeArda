@@ -1,0 +1,11 @@
+telethon
+keyboard
+colorama
+pyfiglet
+bs4
+asyncio
+requests
+getmac
+datetime
+rich
+asciimatics
